@@ -1,1 +1,2 @@
 First Line in flie1.txt
+Second Line added in file2.txt
